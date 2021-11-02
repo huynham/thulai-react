@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/thulai-react/static/css/main.a617e044.chunk.css",
+    "main.js": "/thulai-react/static/js/main.97eaecd0.chunk.js",
+    "main.js.map": "/thulai-react/static/js/main.97eaecd0.chunk.js.map",
+    "runtime-main.js": "/thulai-react/static/js/runtime-main.c35d1230.js",
+    "runtime-main.js.map": "/thulai-react/static/js/runtime-main.c35d1230.js.map",
+    "static/js/2.864e4c9b.chunk.js": "/thulai-react/static/js/2.864e4c9b.chunk.js",
+    "static/js/2.864e4c9b.chunk.js.map": "/thulai-react/static/js/2.864e4c9b.chunk.js.map",
+    "static/js/3.37347ee1.chunk.js": "/thulai-react/static/js/3.37347ee1.chunk.js",
+    "static/js/3.37347ee1.chunk.js.map": "/thulai-react/static/js/3.37347ee1.chunk.js.map",
+    "index.html": "/thulai-react/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/thulai-react/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.864e4c9b.chunk.js.LICENSE.txt": "/thulai-react/static/js/2.864e4c9b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/thulai-react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c35d1230.js",
+    "static/js/2.864e4c9b.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.97eaecd0.chunk.js"
+  ]
+}
